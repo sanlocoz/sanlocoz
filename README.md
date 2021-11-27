@@ -1,3 +1,1 @@
-- Test pppppp
-
-Hello my name is Ikkhsan!
+Hello my name is Ikhsan!
