@@ -1,4 +1,4 @@
-<h1 align="center"> Hello my name is Ikhsan! </h1>
+<h1 align="center"> Hello my name is Ikhsan! 👋</h1>
 <h2> My mission is to apply technological advancements into water resources engineering for solving climate problems. 🌱</h2>
 <br />
 - 🔭 I’m currently working on ...
