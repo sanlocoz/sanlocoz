@@ -1,5 +1,5 @@
 <h1 align="center"> Hello my name is Ikhsan! 👋</h1>
-<h2> I want to apply technological advancements into water resources engineering for solving climate problems in my current and future works. 🌱</h2>
+<h2> I envisioned to apply technological advancements into water resources engineering for solving climate problems🌱</h2>
 <br />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
