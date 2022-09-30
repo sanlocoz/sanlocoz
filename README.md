@@ -1,7 +1,7 @@
 <h1 align="center"> Hello my name is Ikhsan! </h1>
 <br />
 
-My mission is to apply technological advancements into water resources engineering for solving climate problems.
+<h2> My mission is to apply technological advancements into water resources engineering for solving climate problems. </h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
